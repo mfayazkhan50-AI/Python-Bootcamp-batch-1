@@ -1,0 +1,17 @@
+===== Student Record System ====
+
+
+Setup
+1. open vs code in project folder
+2. create a main.py file
+
+------ Steps -----
+
+1. Add Student
+2. Update Student
+3. View Students
+4. Search Student
+5. Delete Student
+6. Exit
+
+
