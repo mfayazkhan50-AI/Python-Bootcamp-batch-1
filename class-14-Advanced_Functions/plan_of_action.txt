@@ -1,0 +1,7 @@
+Advanced Fucntion
+- Default args
+- *args (positional args)
+- **kwarg (keyword args)
+- Local vs Global Variables
+- Global keyword
+- Small Project
